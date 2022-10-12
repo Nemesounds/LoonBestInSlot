@@ -221,7 +221,7 @@ if GetLocale() == "koKR" then
   LBIS.L["Prince Taldaram"] = "공작 탈다람";
   LBIS.L["Profession"] = "전문 기술";
   LBIS.L["Protection"] = "방어/보호";
-  LBIS.L["Purkom (Venture Cove)"] = "푸르콤 <투자개발회사 주화 교환원>";
+  LBIS.L["Purkom (Venture Cove)"] = "<투자개발 만> 얼라-\"회색머리\" 아담스, 호드-푸르콤";
   LBIS.L["PvP"] = "PvP";
   LBIS.L["PvP Vendor"] = "PvP 상인";
   LBIS.L["Quartermasters"] = "병참장교";
